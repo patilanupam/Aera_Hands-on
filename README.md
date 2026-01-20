@@ -44,6 +44,43 @@ graph LR
 
 ---
 
+<div align="center">
+
+### 📖 Navigation
+
+[![Quick Start](https://img.shields.io/badge/⚡-Quick%20Start-success?style=for-the-badge)](QUICKSTART.md)
+[![Full Guide](https://img.shields.io/badge/📚-Full%20Guide-blue?style=for-the-badge)](#)
+[![Contributing](https://img.shields.io/badge/🤝-Contributing-orange?style=for-the-badge)](CONTRIBUTING.md)
+[![Discussions](https://img.shields.io/badge/💬-Discussions-blueviolet?style=for-the-badge)](https://github.com/patilanupam/Aera_Hands-on/discussions)
+
+</div>
+
+---
+
+## 📑 Table of Contents
+
+<details open>
+<summary><b>Click to expand/collapse</b></summary>
+
+- [📚 Overview](#-overview)
+- [🎯 Who Should Read This?](#-who-should-read-this)
+- [🧭 What is Aera Decision Cloud?](#-what-is-aera-decision-cloud)
+- [📖 Module 1: Core Building Blocks](#-module-1-core-building-blocks)
+  - [🔄 Process Builder](#-1-process-builder---orchestrating-decision-workflows)
+  - [📐 Rules Builder](#-2-rules-builder---codifying-business-logic)
+  - [⚙️ Skill Configuration](#️-3-skill-configuration---the-decision-execution-layer)
+- [🎓 Hands-On Learning Journey](#-hands-on-learning-journey)
+- [🔗 Integration Architecture](#-integration-architecture)
+- [🎯 Key Takeaways by Role](#-key-takeaways-by-role)
+- [🚀 Next Steps](#-next-steps)
+- [📚 Best Practices](#-best-practices)
+- [📞 Additional Resources](#-additional-resources)
+- [💡 Final Thoughts](#-final-thoughts)
+
+</details>
+
+---
+
 ## 🎯 Who Should Read This?
 
 - **Cloud Engineers**: Understanding how Aera integrates with cloud infrastructure and data pipelines
