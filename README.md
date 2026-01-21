@@ -49,9 +49,9 @@ graph LR
 ### 📖 Navigation
 
 [![Quick Start](https://img.shields.io/badge/⚡-Quick%20Start-success?style=for-the-badge)](QUICKSTART.md)
+[![Learning Roadmap](https://img.shields.io/badge/🗺️-Learning%20Roadmap-informational?style=for-the-badge)](ROADMAP.md)
 [![Full Guide](https://img.shields.io/badge/📚-Full%20Guide-blue?style=for-the-badge)](#)
 [![Contributing](https://img.shields.io/badge/🤝-Contributing-orange?style=for-the-badge)](CONTRIBUTING.md)
-[![Discussions](https://img.shields.io/badge/💬-Discussions-blueviolet?style=for-the-badge)](https://github.com/patilanupam/Aera_Hands-on/discussions)
 
 </div>
 
